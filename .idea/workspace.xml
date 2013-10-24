@@ -25,7 +25,7 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b93394-26ca-44ab-bfe6-4f8917983b65" name="Default" comment="">
+    <list default="true" id="86b93394-26ca-44ab-bfe6-4f8917983b65" name="Default" comment="v 1.0.1 - FCRand only&#10;* Added multiple screen support">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chess Tools.iws" />
@@ -34,7 +34,7 @@
     <file path="/MainActivity.java" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645742056" ignored="false" />
     <file path="/randomizer.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645098156" ignored="false" />
     <file path="/strings.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382642577282" ignored="false" />
-    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658678868" ignored="false" />
+    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658931031" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -509,7 +509,11 @@
       <created>1382658681101</created>
       <updated>1382658681101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v 1.0.1 - FCRand only&#10;* Added multiple screen support">
+      <created>1382658719441</created>
+      <updated>1382658719441</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
