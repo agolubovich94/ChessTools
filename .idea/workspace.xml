@@ -25,61 +25,7 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b93394-26ca-44ab-bfe6-4f8917983b65" name="Default" comment="v 1.0.1 - FCRand only&#10;* Added multiple screen support">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_bishop.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_bishop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/b_king.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/b_king.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/b_king.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_king.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/b_knight.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/b_knight.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/b_knight.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_knight.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/b_p.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/b_p.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/b_p.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_p.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/b_queen.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/b_queen.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/b_queen.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_queen.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/b_rook.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/b_rook.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/b_rook.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/b_rook.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/b_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/sqblack.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sqblack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/sqblack.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/sqblack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/sqblack.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sqblack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/sqblack.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/sqblack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/sqwhite.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sqwhite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/sqwhite.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/sqwhite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/sqwhite.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sqwhite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/sqwhite.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/sqwhite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_bishop.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_bishop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_bishop.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_bishop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_bishop.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_bishop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_bishop.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_bishop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_king.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_king.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_king.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_king.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_king.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_knight.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_knight.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_knight.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_knight.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_knight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_p.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_p.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_p.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_p.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_p.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_queen.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_queen.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_queen.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_queen.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/w_rook.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/w_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/w_rook.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/w_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/w_rook.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/w_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/w_rook.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/w_rook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/randomizer.xml" afterPath="$PROJECT_DIR$/res/layout/randomizer.xml" />
+    <list default="true" id="86b93394-26ca-44ab-bfe6-4f8917983b65" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chess Tools.iws" />
@@ -88,7 +34,7 @@
     <file path="/MainActivity.java" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645742056" ignored="false" />
     <file path="/randomizer.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645098156" ignored="false" />
     <file path="/strings.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382642577282" ignored="false" />
-    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658200655" ignored="false" />
+    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658203961" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -551,11 +497,16 @@
       <created>1382607871405</created>
       <updated>1382607871405</updated>
     </task>
+    <task id="LOCAL-00001" summary="v 1.0.1 - FCRand only&#10;* Added multiple screen support">
+      <created>1382658210912</created>
+      <updated>1382658210912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12780748" sideWeight="0.670247" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17967914" sideWeight="0.670247" order="2" side_tool="false" content_ui="tabs" />
@@ -567,7 +518,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
