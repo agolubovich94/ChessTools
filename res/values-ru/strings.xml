@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess Tools</string>
+    <string name="fcr_text">Случайные шахматы Фишера</string>
+    <string name="gen_text">Разместить</string>
+</resources>
