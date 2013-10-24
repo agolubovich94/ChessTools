@@ -34,7 +34,7 @@
     <file path="/MainActivity.java" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645742056" ignored="false" />
     <file path="/randomizer.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645098156" ignored="false" />
     <file path="/strings.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382642577282" ignored="false" />
-    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658422672" ignored="false" />
+    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382658678868" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -505,7 +505,11 @@
       <created>1382658425049</created>
       <updated>1382658425049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v 1.0.1 - FCRand only&#10;* Added multiple screen support">
+      <created>1382658681101</created>
+      <updated>1382658681101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
