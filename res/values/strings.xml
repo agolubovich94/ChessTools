@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Chess Tools</string>
-    <string name="fcr_text">Fischer Chess Randomizer</string>
+    <string name="fcr_text">Fischer Random Chess</string>
     <string name="gen_text">Generate</string>
 </resources>

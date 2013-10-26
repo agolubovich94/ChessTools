@@ -2,9 +2,7 @@ package com.example.chesstools;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
+import android.view.*;
 import android.widget.Button;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
@@ -31,7 +29,11 @@ public class MainActivity extends Activity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.randomizer);
+        initRandomizerLayout();
+    }
 
+
+    public void initRandomizerLayout() {
         mbImageSwitcher[0] = (ImageSwitcher) findViewById(R.id.imageSwitcherb0);
         mbImageSwitcher[1] = (ImageSwitcher) findViewById(R.id.imageSwitcherb1);
         mbImageSwitcher[2] = (ImageSwitcher) findViewById(R.id.imageSwitcherb2);
@@ -92,6 +94,27 @@ public class MainActivity extends Activity {
         mwImageSwitcher[7].setImageResource(IMAGESwhite[Figures.ROOK.get() - 1]);
     }
 
+
+    public boolean onCreateOptionsMenu(Menu menu) {
+    	MenuInflater inflater = getMenuInflater();
+    	inflater.inflate(R.menu.optionmenu, menu);
+    	return true;
+    }
+
+
+    public boolean onOptionsItemSelected(MenuItem item) {
+	    switch (item.getItemId()) {
+    		case R.id.menudeck:
+    			setContentView(R.layout.deck);
+    			return true;
+    		case R.id.menurand:
+    			setContentView(R.layout.randomizer);
+                initRandomizerLayout();
+    			return true;
+    		default:
+    			return super.onOptionsItemSelected(item);
+}
+    }
 
 
     private void addListenerOnButton() {
