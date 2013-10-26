@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/backgro">
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativeLayout1" android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true">
+        <ImageSwitcher
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fA8" android:background="@drawable/sqwhite"
+                />
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fB8" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fA8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fC8" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fB8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fD8" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fC8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fE8" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fD8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fF8" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fE8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fG8" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fF8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fH8" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fG8" android:layout_alignTop="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fB7" android:background="@drawable/sqwhite"
+                       android:layout_below="@+id/fA8" android:layout_alignLeft="@+id/fB8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fC7" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fB8" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fD7" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fC7" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fE7" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fD7" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fF7" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fE7" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fG7" android:background="@drawable/sqblack"
+                       android:layout_toRightOf="@+id/fF7" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fH7" android:background="@drawable/sqwhite"
+                       android:layout_toRightOf="@+id/fG7" android:layout_alignTop="@+id/fA7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content"
+                       android:id="@+id/fA7" android:background="@drawable/sqblack"
+                       android:layout_alignLeft="@+id/fA8" android:layout_below="@+id/fA8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA6"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fB7"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB6"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fA8"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC6"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fB8"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD6"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fC8"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE6"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fD8"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG6"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fF6"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF6"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fE8"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH6"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fG6"
+                       android:layout_alignTop="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA5"
+                       android:background="@drawable/sqblack" android:layout_alignLeft="@+id/fA8"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB5"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fA6"
+                       android:layout_alignLeft="@+id/fB8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC5"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fB8"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD5"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fC7"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE5"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fD7"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF5"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fE7"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG5"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fF7"
+                       android:layout_below="@+id/fA6"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH5"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fG7"
+                       android:layout_below="@+id/fA6"/>
+	<ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA4"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fB5"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB4"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fA8"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC4"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fB8"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD4"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fC8"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE4"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fD8"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG4"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fF4"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF4"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fE8"
+                       android:layout_alignTop="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH4"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fG4"
+                       android:layout_alignTop="@+id/fA4"/>
+	<ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA3"
+                       android:background="@drawable/sqblack" android:layout_alignLeft="@+id/fA8"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB3"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fA4"
+                       android:layout_alignLeft="@+id/fB8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC3"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fB8"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD3"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fC7"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE3"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fD7"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF3"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fE7"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG3"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fF7"
+                       android:layout_below="@+id/fA4"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH3"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fG7"
+                       android:layout_below="@+id/fA4"/>
+	<ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA2"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fB3"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB2"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fA8"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC2"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fB8"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD2"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fC8"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE2"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fD8"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG2"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fF2"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF2"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fE8"
+                       android:layout_alignTop="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH2"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fG2"
+                       android:layout_alignTop="@+id/fA2"/>
+	<ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fA1"
+                       android:background="@drawable/sqblack" android:layout_alignLeft="@+id/fA8"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fB1"
+                       android:background="@drawable/sqwhite" android:layout_below="@+id/fA2"
+                       android:layout_alignLeft="@+id/fB8"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fC1"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fB8"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fD1"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fC7"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fE1"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fD7"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fF1"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fE7"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fG1"
+                       android:background="@drawable/sqblack" android:layout_toRightOf="@+id/fF7"
+                       android:layout_below="@+id/fA2"/>
+        <ImageSwitcher android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/fH1"
+                       android:background="@drawable/sqwhite" android:layout_toRightOf="@+id/fG7"
+                       android:layout_below="@+id/fA2"/>
+    </RelativeLayout>
+</RelativeLayout>

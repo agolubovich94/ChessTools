@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menurand"
+		android:icon="@drawable/sqwhite"
+		android:title="Randomizer" />
+	<item android:id="@+id/menudeck"
+		android:icon="@drawable/sqwhite"
+		android:title="Chess Dec" />
+</menu>
