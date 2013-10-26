@@ -26,32 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b93394-26ca-44ab-bfe6-4f8917983b65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/b_bishop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/b_bishop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_bishop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_bishop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_king.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_knight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_queen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/b_rook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/backgro.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/clockbut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/clockbutpressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/randbut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/randbutpressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/sqblack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/sqwhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_bishop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_king.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_knight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_queen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/w_rook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/deck.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/optionmenu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/randbutton.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-hdpi/backgro.jpg" afterPath="$PROJECT_DIR$/res/drawable-hdpi/backgro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-ldpi/backgro.jpg" afterPath="$PROJECT_DIR$/res/drawable-ldpi/backgro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/backgro.jpg" afterPath="$PROJECT_DIR$/res/drawable-mdpi/backgro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-tvdpi/backgro.jpg" afterPath="$PROJECT_DIR$/res/drawable-tvdpi/backgro.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/clockbut.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/clockbut.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Chess Tools.iws" />
@@ -60,7 +39,7 @@
     <file path="/MainActivity.java" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382752014432" ignored="false" />
     <file path="/randomizer.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382645098156" ignored="false" />
     <file path="/strings.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382739899242" ignored="false" />
-    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382752655699" ignored="false" />
+    <file path="/Dummy.txt" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382755927315" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382741117709" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled/res/values/strings.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382742772451" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled/AndroidManifest.xml" changelist="86b93394-26ca-44ab-bfe6-4f8917983b65" time="1382742772451" ignored="false" />
@@ -130,25 +109,25 @@
     <leaf>
       <file leaf-file-name="randomizer.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/randomizer.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
             <state line="66" column="35" selection-start="5513" selection-end="5513" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="deck.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/deck.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider editor-type-id="text-editor">
             <state line="177" column="59" selection-start="15644" selection-end="15644" vertical-scroll-proportion="0.0">
               <folding />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
@@ -218,7 +197,7 @@
       <file leaf-file-name="optionmenu.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/menu/optionmenu.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="87" selection-start="275" selection-end="275" vertical-scroll-proportion="0.22263451">
+            <state line="8" column="41" selection-start="275" selection-end="275" vertical-scroll-proportion="0.22263451">
               <folding />
             </state>
           </provider>
@@ -291,7 +270,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -470,6 +448,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -705,7 +684,11 @@
       <created>1382752465624</created>
       <updated>1382752465624</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="v 1.0.2&#10;+ finished FCRand (+new button)&#10;+ repaired icon&#10;+ deck design&#10;+ menu bar initial scetch">
+      <created>1382752845976</created>
+      <updated>1382752845976</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -723,6 +706,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -730,7 +714,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16641337" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1656535" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12765957" sideWeight="0.6704362" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -739,7 +723,6 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -826,13 +809,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/randomizer.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/chesstools/Figures.java">
@@ -899,23 +882,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/deck.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state line="177" column="59" selection-start="15644" selection-end="15644" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/randomizer.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/randomizer.xml">
       <provider editor-type-id="text-editor">
         <state line="66" column="35" selection-start="5513" selection-end="5513" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/chesstools/MainActivity.java">
@@ -927,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/menu/optionmenu.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="87" selection-start="275" selection-end="275" vertical-scroll-proportion="0.22263451">
+        <state line="8" column="41" selection-start="275" selection-end="275" vertical-scroll-proportion="0.22263451">
           <folding />
         </state>
       </provider>
